@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libDBConnector", "libDBConnector.vcproj", "{A2916053-7E5B-49C6-A536-8AB408CCCFF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2916053-7E5B-49C6-A536-8AB408CCCFF8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2916053-7E5B-49C6-A536-8AB408CCCFF8}.Debug|Win32.Build.0 = Debug|Win32
+		{A2916053-7E5B-49C6-A536-8AB408CCCFF8}.Release|Win32.ActiveCfg = Release|Win32
+		{A2916053-7E5B-49C6-A536-8AB408CCCFF8}.Release|Win32.Build.0 = Release|Win32
+		{7467D3AE-F709-4AEC-8FB7-34F5C954FE72}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7467D3AE-F709-4AEC-8FB7-34F5C954FE72}.Debug|Win32.Build.0 = Debug|Win32
+		{7467D3AE-F709-4AEC-8FB7-34F5C954FE72}.Release|Win32.ActiveCfg = Release|Win32
+		{7467D3AE-F709-4AEC-8FB7-34F5C954FE72}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
